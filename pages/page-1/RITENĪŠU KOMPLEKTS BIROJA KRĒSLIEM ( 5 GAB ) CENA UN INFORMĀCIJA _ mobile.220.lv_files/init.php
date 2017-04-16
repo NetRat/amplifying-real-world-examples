@@ -1,0 +1,1 @@
+maxt.revision=1492337841;maxt.device="desktop";maxt.pageview=1;maxt.setVisit(); maxt.initCampaigns('[]')
