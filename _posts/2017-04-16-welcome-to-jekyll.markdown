@@ -2,7 +2,7 @@
 layout: post
 title:  "Real World Pages"
 date:   2017-04-16 04:25:24 -0500
-categories: jekyll update
+categories: 
 ---
 Local copies of pages. TBD.
 
